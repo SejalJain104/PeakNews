@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/PeakNews/static/css/main.073c9b0a.css",
+    "main.js": "/PeakNews/static/js/main.6f8aead8.js",
+    "static/js/787.ec11e5a9.chunk.js": "/PeakNews/static/js/787.ec11e5a9.chunk.js",
+    "static/media/loading.gif": "/PeakNews/static/media/loading.f4d71b7e2329eafbaea7.gif",
+    "index.html": "/PeakNews/index.html",
+    "main.073c9b0a.css.map": "/PeakNews/static/css/main.073c9b0a.css.map",
+    "main.6f8aead8.js.map": "/PeakNews/static/js/main.6f8aead8.js.map",
+    "787.ec11e5a9.chunk.js.map": "/PeakNews/static/js/787.ec11e5a9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.6f8aead8.js"
+  ]
+}
